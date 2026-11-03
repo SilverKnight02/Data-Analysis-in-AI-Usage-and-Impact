@@ -20,8 +20,7 @@ A Power BI dashboard that explores how students and professionals use AI tools, 
 - Standardized inconsistent labels in `Gender`, `Country`, `AI_Tool` and `Education_Level` (for example "chatgpt", "Chat GPT" and "Chatgpt" became "ChatGPT").
 - Removed text units (`yrs`, `hrs`, `$`, `,`) from `Age`, the hours columns, `Monthly_Income` and `Monthly_AI_Cost`, then converted them to numbers.
 - Replaced blank category values with "Unknown".
-- Numeric blanks: [WRITE WHAT YOU DID, for example "left empty so averages skip them"].
-- Outliers (very high income, 23 hours of daily AI use): [WRITE YOUR DECISION AND WHY, for example "kept and flagged" or "excluded from X"].
+- Numeric blanks:"left empty so averages skip them".
 
 ## Findings
 
@@ -42,7 +41,7 @@ These are patterns in this sample of 288 people. They do not show cause and effe
 
 ## Next steps
 
-- [ADD ONLY WHAT YOU PLAN TO DO, for example "test whether differences are statistically significant" or "repeat the analysis on a larger dataset"]
+- "Repeat the analysis on a larger dataset".
 
 ## Files
 
